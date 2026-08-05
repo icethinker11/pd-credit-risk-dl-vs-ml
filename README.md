@@ -1,4 +1,4 @@
-<img width="718" height="427" alt="image" src="https://github.com/user-attachments/assets/ba5ddea1-a022-4c5d-bc81-5204bacd0807" /># PD Credit Risk: Deep Learning vs. Machine Learning
+# PD Credit Risk: Deep Learning vs. Machine Learning
  
 Modelado de la Probabilidad de Incumplimiento (PD, *Probability of Default*) — el componente central del riesgo crediticio — comparando el rendimiento e interpretabilidad de deep learning frente a modelos clásicos de machine learning.
  

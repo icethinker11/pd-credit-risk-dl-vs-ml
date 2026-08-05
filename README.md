@@ -7,9 +7,7 @@ Modelado de la Probabilidad de Incumplimiento (PD, *Probability of Default*) —
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🎯 Motivación
- 
-Este proyecto es mi punto de partida para adentrarme en la intersección entre **data science y finanzas**, un rubro que me interesa particularmente. Elegí el riesgo crediticio como caso de estudio porque combina un problema técnico interesante con una aplicación de negocio real y bien documentada en la industria financiera.
- 
+  
 El riesgo crediticio se descompone tradicionalmente (bajo el marco de Basilea) en tres componentes: **PD** (Probability of Default), **LGD** (Loss Given Default) y **EAD** (Exposure at Default). Este proyecto se enfoca específicamente en el modelado de **PD**: la probabilidad de que un cliente incumpla con el pago de su crédito.
  
 Existe la creencia generalizada de que el deep learning supera automáticamente a los métodos "clásicos" de machine learning. Sin embargo, la literatura reciente sobre datos tabulares sugiere que modelos como el gradient boosting (XGBoost, LightGBM) suelen igualar o superar a redes neuronales en este tipo de problemas.

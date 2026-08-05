@@ -12,7 +12,7 @@ Este proyecto es mi punto de partida para adentrarme en la intersección entre *
  
 El riesgo crediticio se descompone tradicionalmente (bajo el marco de Basilea) en tres componentes: **PD** (Probability of Default), **LGD** (Loss Given Default) y **EAD** (Exposure at Default). Este proyecto se enfoca específicamente en el modelado de **PD**: la probabilidad de que un cliente incumpla con el pago de su crédito.
  
-En la industria financiera existe la creencia generalizada de que el deep learning supera automáticamente a los métodos "clásicos" de machine learning. Sin embargo, la literatura reciente sobre datos tabulares sugiere que modelos como el gradient boosting (XGBoost, LightGBM) suelen igualar o superar a redes neuronales en este tipo de problemas.
+Existe la creencia generalizada de que el deep learning supera automáticamente a los métodos "clásicos" de machine learning. Sin embargo, la literatura reciente sobre datos tabulares sugiere que modelos como el gradient boosting (XGBoost, LightGBM) suelen igualar o superar a redes neuronales en este tipo de problemas.
  
 Este proyecto pone a prueba esa hipótesis en un caso real de modelado de PD, comparando deep learning con un conjunto de modelos de machine learning y evaluando no solo el rendimiento predictivo, sino también la interpretabilidad de cada enfoque, lo cual es un factor crítico en la industria financiera, donde los reguladores exigen explicabilidad en las decisiones de crédito.
  

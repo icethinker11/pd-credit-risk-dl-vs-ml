@@ -19,3 +19,7 @@ Este proyecto pone a prueba esa hipótesis en un caso real de modelado de PD, co
 **Pregunta de investigación:** ¿Justifica la complejidad adicional del deep learning su uso frente a machine learning clásico en un modelo de PD con datos tabulares?
  
 **Nota de alcance:** este proyecto modela únicamente el componente PD del riesgo crediticio. 
+
+## 📊 Dataset
+ 
+[Default of Credit Card Clients Dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) (UCI / Kaggle) — 30,000 clientes de tarjetas de crédito en Taiwán (2005), con 23 variables predictoras (demográficas, historial de pago de 6 meses, montos facturados y pagados) y una variable objetivo binaria (incumplimiento el mes siguiente).
